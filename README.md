@@ -1,4 +1,4 @@
-Hi, i'm Joshua, also called as **superunstar** as my pseudonyme.
+Hi, i'm **superunstar**
 
 I speak French 🇫🇷 & English 🇬🇧.
 
