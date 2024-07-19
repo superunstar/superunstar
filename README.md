@@ -1,9 +1,11 @@
-Hi, i'm **superunstar**
+# 👋 Hey, I'm superunstar!
 
-I speak French 🇫🇷 & English 🇬🇧.
+## About Me
+- 🌍 I speak English and French.
+- 🕵️‍♂️ I'm all about discovering new stuff, especially in tech.
+- 🔐 Cryptography is pretty cool.
+- 🐍 Python is my favorite language.
 
-I'm just a very curious person, so sometimes i post some of my researchs here, it can literally be about anything.
-
-You can contact me here (*if it's even possible, idk*) or on discord : @superunstar.
-
-My pronouns are He/Him.
+## What I Do
+- 💻 I use GitHub to share my finds and host my projects.
+- 🌱 Always picking up new things and staying updated with the latest trends.
